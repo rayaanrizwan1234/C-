@@ -1,0 +1,17 @@
+/Users/rayaanrizwan/Desktop/C#/Claims/bin/Debug/net9.0/Claims
+/Users/rayaanrizwan/Desktop/C#/Claims/bin/Debug/net9.0/Claims.deps.json
+/Users/rayaanrizwan/Desktop/C#/Claims/bin/Debug/net9.0/Claims.runtimeconfig.json
+/Users/rayaanrizwan/Desktop/C#/Claims/bin/Debug/net9.0/Claims.dll
+/Users/rayaanrizwan/Desktop/C#/Claims/bin/Debug/net9.0/Claims.pdb
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.AssemblyInfoInputs.cache
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.AssemblyInfo.cs
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.csproj.CoreCompileInputs.cache
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.dll
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/refint/Claims.dll
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.pdb
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.genruntimeconfig.cache
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/ref/Claims.dll
+/Users/rayaanrizwan/Desktop/C#/Claims/bin/Debug/net9.0/CsvHelper.dll
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.csproj.AssemblyReference.cache
+/Users/rayaanrizwan/Desktop/C#/Claims/obj/Debug/net9.0/Claims.csproj.Up2Date
